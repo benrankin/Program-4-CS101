@@ -109,6 +109,8 @@ while execute is True:
     f.close()
     turtle.clear()
     
+print('We did it, team!')
+
 
 
 
